@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!--Background colors for book initials-->
+    <color name="initialsColor1"> #2B3D4D</color>
+    <color name="initialsColor2"> #339999</color>
+    <color name="initialsColor3"> #FFCCFF</color>
+    <color name="initialsColor4"> #FF6600</color>
+    <color name="initialsColor5"> #CCFFFF</color>
+    <color name="initialsColor6"> #1E785A</color>
+    <color name="initialsColor7"> #713178</color>
+    <color name="initialsColor8"> #E61E60</color>
+    <color name="initialsColor9"> #228447</color>
+    <color name="initialsColor10"> #326e79</color>
+    <color name="initialsColor11"> #e6ab21</color>
+    <color name="initialsColor12"> #436264</color>
+    <color name="initialsColor13"> #280700</color>
+</resources>
